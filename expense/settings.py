@@ -24,9 +24,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "django-insecure-0_vzq5ncb-n5rhmoca(=+lbl4$d50@#5d=xr$%y%8bmn)5#j%i"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['.onrender.com']
+ALLOWED_HOSTS = [ "expense-tracker-f3a1.onrender.com"]
 
 
 # Application definition
@@ -134,3 +134,6 @@ LOGIN_URL = 'login'
 LOGOUT_REDIRECT_URL = 'login'
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
+CSRF_TRUSTED_ORIGINS = [
+    "https://expense-tracker-f3a1.onrender.com",
+]
