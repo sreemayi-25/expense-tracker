@@ -18,7 +18,6 @@ A Django-based web application that helps users track and manage their expenses 
 
 ## 🖥️ Screenshots
 
-<img width="1470" alt="Screenshot 2025-05-29 at 6 55 59 PM" src="https://github.com/user-attachments/assets/e0da8952-638b-4375-9cba-ce13a4c20e93" />
 <img width="1470" alt="Screenshot 2025-05-29 at 6 55 59 PM" src="https://github.com/user-attachments/assets/a2db683c-a481-4934-ba40-9af1936c57ee" />
 <img width="1470" alt="Screenshot 2025-05-29 at 6 56 10 PM" src="https://github.com/user-attachments/assets/afd88949-a4ab-4442-b412-0d5cd8f84b1d" />
 <img width="1470" alt="Screenshot 2025-05-29 at 6 56 41 PM" src="https://github.com/user-attachments/assets/2afc60b0-38c8-4f4e-84a9-ebf68b5e9d57" />
